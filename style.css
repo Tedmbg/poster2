@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+.poster{
+    width:350px;
+    margin-left:20%;
+    margin-top:70px;
+    border:10px dotted whitesmoke;
+
+}
+.motiv-img{
+    width:100%;
+}
+.text{
+    font-family: 'Caveat', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size:40px;
+    width:350px;
+    margin-left:60%;
+    text-align: center;
+    color:antiquewhite;
+}
+.end{
+    color:antiquewhite;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Caveat', cursive;
+}
